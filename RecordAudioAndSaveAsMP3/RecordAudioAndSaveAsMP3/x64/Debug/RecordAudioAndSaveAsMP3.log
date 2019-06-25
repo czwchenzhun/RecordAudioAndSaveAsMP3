@@ -1,0 +1,11 @@
+﻿  audioCapturer.cpp
+d:\ffmpeg\include\libavutil\rational.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+c:\users\chenzhiwen\desktop\ffmpeg\recordaudioandsaveasmp3(1)\recordaudioandsaveasmp3\audiocapturer.cpp(33): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\chenzhiwen\desktop\ffmpeg\recordaudioandsaveasmp3(1)\recordaudioandsaveasmp3\audiocapturer.cpp(35): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\ffmpeg\include\libavformat\avformat.h(885): note: 参见“AVStream::codec”的声明
+c:\users\chenzhiwen\desktop\ffmpeg\recordaudioandsaveasmp3(1)\recordaudioandsaveasmp3\audiocapturer.cpp(47): warning C4996: 'AVStream::codec': 被声明为已否决
+  d:\ffmpeg\include\libavformat\avformat.h(885): note: 参见“AVStream::codec”的声明
+c:\users\chenzhiwen\desktop\ffmpeg\recordaudioandsaveasmp3(1)\recordaudioandsaveasmp3\audiocapturer.cpp(95): warning C4996: 'avcodec_decode_audio4': 被声明为已否决
+  d:\ffmpeg\include\libavcodec\avcodec.h(4774): note: 参见“avcodec_decode_audio4”的声明
+  RecordAudioAndSaveAsMP3.vcxproj -> C:\Users\chenzhiwen\Desktop\ffmpeg\RecordAudioAndSaveAsMP3(1)\x64\Debug\RecordAudioAndSaveAsMP3.exe
+  RecordAudioAndSaveAsMP3.vcxproj -> C:\Users\chenzhiwen\Desktop\ffmpeg\RecordAudioAndSaveAsMP3(1)\x64\Debug\RecordAudioAndSaveAsMP3.pdb (Partial PDB)
